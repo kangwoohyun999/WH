@@ -23,5 +23,3 @@ Nationality: South Korea
   <h3>Used</h3>
   <img src="https://skillicons.dev/icons?i=vscode" />
 </a>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m1ns30&show_icons=true&theme=radical)
