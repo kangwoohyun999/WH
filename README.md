@@ -14,14 +14,14 @@ Nationality: South Korea
 
 <a id="Language">
   <h3>Language</h3>
-  <img src="https://skillicons.dev/icons?i=python,html,js,c+" />
+  <img src="https://skillicons.dev/icons?i=python,html,js,c" />
 </a>
 
 <hr />
 
 <a id="Used">
   <h3>Used</h3>
-  <img src="https://skillicons.dev/icons?i=idea,vscode" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
 </a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m1ns30&show_icons=true&theme=radical)
