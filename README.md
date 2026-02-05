@@ -7,7 +7,7 @@
 
 ```yml
 # About Me
-Born: 2006
+Born: 2005
 Nationality: South Korea
 ```
 <hr />
